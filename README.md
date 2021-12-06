@@ -1,1 +1,1 @@
-# Game_stiks
+# Game_sticks
